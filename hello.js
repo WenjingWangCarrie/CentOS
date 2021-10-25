@@ -12,3 +12,4 @@ http.createServer((request, response) => {
 
 }).listen(1337); 
  
+console.log("Hello Node.js");
